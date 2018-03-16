@@ -1,2 +1,2 @@
 # ImageClassify
-Program for clasification of aerial images
+Program for classification of aerial images
